@@ -15,7 +15,7 @@ node main.js
 tsc --init
 <!-- Create package.json file -->
 npm init -y
-<!-- Create 2 Files node-modules & package-lock.json -->
+<!-- Create 2 Files => node-modules & package-lock.json -->
 npm i @types/node -D
 
 
