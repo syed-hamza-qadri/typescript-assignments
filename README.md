@@ -5,5 +5,6 @@ tsc --version
 
 tsc main.ts
 node main.js
-npm init 
+tsc --init
+npm init -y
 npm i @types/node -D
