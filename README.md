@@ -7,3 +7,4 @@ tsc main.ts
 node main.js
 npm init 
 npm i @types/node -D
+
