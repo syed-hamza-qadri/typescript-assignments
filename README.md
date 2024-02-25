@@ -17,3 +17,10 @@ tsc --init
 npm init -y
 <!-- Create 2 Files node-modules & package-lock.json -->
 npm i @types/node -D
+
+
+# Types of Cases
+
+camelCase
+snake_case
+PascalCase
