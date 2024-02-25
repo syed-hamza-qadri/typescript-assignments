@@ -24,3 +24,10 @@ npm i @types/node -D
 camelCase
 snake_case
 PascalCase
+
+# Data Types
+
+String
+Number
+Boolean
+Any
