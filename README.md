@@ -59,4 +59,10 @@ Assignability Error
 let cname1 = name1 + " " + name2
 let cname2 = `${name1} ${name2}`
 
+# Operators
++
+-
+*
+/
+
 <!--  -->
