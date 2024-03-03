@@ -27,7 +27,17 @@ PascalCase
 
 # Data Types
 
-String
+String 
 Number
-Boolean
+Boolean <!-- True / False  -->
 Any
+
+# Declaration 
+
+var  <!-- old method -->
+let  <!-- can be change -->
+const <!-- remain constant, cannot be change-->
+
+
+
+<!--  -->
