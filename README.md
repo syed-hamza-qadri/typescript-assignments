@@ -29,15 +29,34 @@ PascalCase
 
 String 
 Number
-Boolean <!-- True / False  -->
+Boolean   <!-- True / False  -->
 Any
+
+# Additional Primitive  Data Types
+
+Undefined 
+Unknown  <!-- when type is not known, alternative of any -->
+BigInt   <!-- for big integers that have maximum value allow in number-->
+Symbols
+Null     <!-- No Value -->
 
 # Declaration 
 
-var  <!-- old method -->
-let  <!-- can be change -->
+var   <!-- old method -->
+let   <!-- can be change -->
 const <!-- remain constant, cannot be change-->
 
+# Errors
 
+Syntax Error
+Type Error
+Assignability Error
+
+# Joining Variable
+
+`${} ${}` <!-- to join multiple variables -->
+
+let cname1 = name1 + " " + name2
+let cname2 = `${name1} ${name2}`
 
 <!--  -->
