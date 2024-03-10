@@ -31,14 +31,18 @@ String
 Number
 Boolean   <!-- True / False  -->
 Any
+<!-- Type Interference by default method hai jiski waja se typescript var ki type dekhti hai  -->
+<!-- Strong typing mai var ki type assign krte hai for complex data -->
+
 
 # Additional Primitive  Data Types
 
-Undefined 
-Unknown  <!-- when type is not known, alternative of any -->
-BigInt   <!-- for big integers that have maximum value allow in number-->
+any       <!-- any value and can be change from 1 type to other (bad practice) -->
+Undefined <!-- var declare ho lykn value assign na ho -->
+Unknown   <!-- when type is not known & cannot bhi change to other type, alternative of any -->
+BigInt    <!-- for big integers that have maximum value allow in number-->
 Symbols
-Null     <!-- No Value -->
+Null      <!-- No Value -->
 
 # Declaration 
 
@@ -54,15 +58,15 @@ Assignability Error
 
 # Joining Variable
 
+<!-- Template Literals -->
 `${} ${}` <!-- to join multiple variables -->
 
 let cname1 = name1 + " " + name2
 let cname2 = `${name1} ${name2}`
 
-# Operators
-+
--
-*
-/
+# Modules
 
-<!--  -->
+# Changes in files
+
+tsconfig > line 14 > 2016 to 2022
+
